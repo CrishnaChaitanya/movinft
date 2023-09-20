@@ -1,0 +1,169 @@
+{
+  "Header": {
+    "title": "DISCOVER THE WORLD OF MOVINFT",
+    "paragraph": "Unlock the Magic of NFTs."
+  },
+  "About": {
+    "paragraph": "Movinft is a cutting-edge platform that brings together art, technology, and entertainment. We provide a seamless and secure way for users to buy and own NFT film clips, revolutionizing the way we experience digital art.",
+    "Why": [
+      "Innovation",
+      "Security",
+      "User-Friendly Experience",
+      "Shielded"
+    ],
+    "Why2": [
+      "Troubleshooting",
+      "Intuitive",
+      "Seamless",
+      "Accessible"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-search",
+      "name": "Discover Unique NFT Film Clips",
+      "text": "Immerse yourself in a collection of captivating film clips, each a one-of-a-kind NFT. Experience the magic of motion and own a piece of digital art history."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "NFT Purchases",
+      "text": "Explore our collection of one-of-a-kind film clips available for purchase. Each clip is carefully curated and guaranteed to be a unique addition to your collection."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Troubleshooting",
+      "text": "Encountering any problems? Our troubleshooting system is here to assist you. Simply submit your issue and our team will work diligently to resolve it and ensure a smooth experience on our platform."
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "job": "Chairman ",
+      "name": "Lakshmi Narayana"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "job": " CEO & Mentor",
+      "name": "Guntakatla PanduRangarao"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "job": "Chief technical Officer",
+      "name": "Satish Tirumani"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "job": "Marketing Lead",
+      "name": "Bavesh"
+    },
+    {
+      "img": "img/team/05.jpg",
+      "job": "Web-3 Advisor",
+      "name": "Vamsi krishna"
+    },
+    {
+      "img": "img/team/06.jpg",
+      "job": "Chief Finance Officer",
+      "name": "Ramana"
+    },
+    {
+      "img": "img/team/07.jpg",
+      "job": "Technical Architect",
+      "name": "Nandini"
+    },
+    {
+      "img": "img/team/08.jpg",
+      "job": "Web-3 Advisor",
+      "name": "Abhijeet"
+    },
+    {
+      "img": "img/team/09.jpg",
+      "job": "Research & Developement",
+      "name": "Divya pilli"
+    },
+    {
+      "img": "img/team/10.jpg",
+      "job": "Tech developer",
+      "name": "Devineni sai sandeep"
+    },
+    {
+      "img": "img/team/11.jpg",
+      "job": "Tech developer",
+      "name": "Vignesh P"
+    }
+  ],
+  "Contact": {
+    "address": "Visakhapatnam, Andhra Pradesh, India",
+    "phone": "7569838827",
+    "email": "abhi7d2002@gmail.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
